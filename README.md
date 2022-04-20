@@ -1,1 +1,2 @@
-# ReadingNASAdata
+# Чтение данных API NASA
+# задача по дз 2
